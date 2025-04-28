@@ -1,0 +1,143 @@
+
+=== Sistem E-Commerce ===
+1. Login
+2. Registrasi
+3. Keluar
+Pilih opsi: Opsi tidak valid. Coba lagi.
+
+=== Sistem E-Commerce ===
+1. Login
+2. Registrasi
+3. Keluar
+Pilih opsi: Opsi tidak valid. Coba lagi.
+
+=== Sistem E-Commerce ===
+1. Login
+2. Registrasi
+3. Keluar
+Pilih opsi: Username: Password: Error: Username atau password salah.
+
+=== Sistem E-Commerce ===
+1. Login
+2. Registrasi
+3. Keluar
+Pilih opsi: Username: Password: Pilih peran: 1. Pembeli 2. Penjual 3. Admin
+Registrasi berhasil! Silakan login.
+
+=== Sistem E-Commerce ===
+1. Login
+2. Registrasi
+3. Keluar
+Pilih opsi: Username: Password: Login berhasil! Selamat datang, makan (ADMIN).
+
+=== Menu Admin ===
+1. Lihat Semua Pengguna
+2. Hapus Pengguna
+3. Tambah Kategori
+4. Perbarui Kategori
+5. Hapus Kategori
+6. Keluar
+Pilih opsi: 
+=== Daftar Pengguna ===
+Username        Peran     
+makan           ADMIN     
+
+=== Menu Admin ===
+1. Lihat Semua Pengguna
+2. Hapus Pengguna
+3. Tambah Kategori
+4. Perbarui Kategori
+5. Hapus Kategori
+6. Keluar
+Pilih opsi: 
+=== Daftar Pengguna ===
+Username        Peran     
+makan           ADMIN     
+Masukkan username untuk dihapus: Error: Anda tidak dapat menghapus akun Anda sendiri.
+
+=== Menu Admin ===
+1. Lihat Semua Pengguna
+2. Hapus Pengguna
+3. Tambah Kategori
+4. Perbarui Kategori
+5. Hapus Kategori
+6. Keluar
+Pilih opsi: Masukkan ID kategori: Masukkan nama kategori: Kategori berhasil ditambahkan.
+
+=== Menu Admin ===
+1. Lihat Semua Pengguna
+2. Hapus Pengguna
+3. Tambah Kategori
+4. Perbarui Kategori
+5. Hapus Kategori
+6. Keluar
+Pilih opsi: 
+=== Sistem E-Commerce ===
+1. Login
+2. Registrasi
+3. Keluar
+Pilih opsi: Username: Password: Pilih peran: 1. Pembeli 2. Penjual 3. Admin
+Registrasi berhasil! Silakan login.
+
+=== Sistem E-Commerce ===
+1. Login
+2. Registrasi
+3. Keluar
+Pilih opsi: Opsi tidak valid. Coba lagi.
+
+=== Sistem E-Commerce ===
+1. Login
+2. Registrasi
+3. Keluar
+Pilih opsi: Username: Password: Login berhasil! Selamat datang, firman (SELLER).
+
+=== Menu Penjual ===
+1. Tambah Produk
+2. Perbarui Produk
+3. Hapus Produk
+4. Lihat Produk Saya
+5. Lihat Pesanan Pembeli
+6. Kelola Dompet
+7. Keluar
+Pilih opsi: 
+=== Daftar Kategori ===
+1. 123 (ID: makan)
+Masukkan ID kategori: Masukkan ID produk: Masukkan nama produk: Masukkan harga: Masukkan stok: Produk berhasil ditambahkan.
+
+=== Menu Penjual ===
+1. Tambah Produk
+2. Perbarui Produk
+3. Hapus Produk
+4. Lihat Produk Saya
+5. Lihat Pesanan Pembeli
+6. Kelola Dompet
+7. Keluar
+Pilih opsi: 
+=== Produk Saya ===
+ID         Nama                 Harga      Stok  Kategori       
+123        ayamgoreng           13000.00   40    123            
+
+=== Menu Penjual ===
+1. Tambah Produk
+2. Perbarui Produk
+3. Hapus Produk
+4. Lihat Produk Saya
+5. Lihat Pesanan Pembeli
+6. Kelola Dompet
+7. Keluar
+Pilih opsi: Error: Buyer username tidak valid: tidak boleh null atau kosong.
+
+=== Menu Penjual ===
+1. Tambah Produk
+2. Perbarui Produk
+3. Hapus Produk
+4. Lihat Produk Saya
+5. Lihat Pesanan Pembeli
+6. Kelola Dompet
+7. Keluar
+Pilih opsi: 
+=== Sistem E-Commerce ===
+1. Login
+2. Registrasi
+3. Keluar
+Pilih opsi: Terima kasih telah menggunakan sistem!

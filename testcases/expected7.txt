@@ -1,0 +1,472 @@
+
+=== Sistem E-Commerce ===
+1. Login
+2. Registrasi
+3. Keluar
+Pilih opsi: Username: Password: Pilih peran: 1. Pembeli 2. Penjual 3. Admin
+Registrasi berhasil! Silakan login.
+
+=== Sistem E-Commerce ===
+1. Login
+2. Registrasi
+3. Keluar
+Pilih opsi: Username: Password: Pilih peran: 1. Pembeli 2. Penjual 3. Admin
+Registrasi berhasil! Silakan login.
+
+=== Sistem E-Commerce ===
+1. Login
+2. Registrasi
+3. Keluar
+Pilih opsi: Username: Password: Pilih peran: 1. Pembeli 2. Penjual 3. Admin
+Registrasi berhasil! Silakan login.
+
+=== Sistem E-Commerce ===
+1. Login
+2. Registrasi
+3. Keluar
+Pilih opsi: Username: Password: Login berhasil! Selamat datang, firman (ADMIN).
+
+=== Menu Admin ===
+1. Lihat Semua Pengguna
+2. Hapus Pengguna
+3. Tambah Kategori
+4. Perbarui Kategori
+5. Hapus Kategori
+6. Keluar
+Pilih opsi: 
+=== Daftar Pengguna ===
+Username        Peran     
+firman          ADMIN     
+martha          SELLER    
+tobing          BUYER     
+
+=== Menu Admin ===
+1. Lihat Semua Pengguna
+2. Hapus Pengguna
+3. Tambah Kategori
+4. Perbarui Kategori
+5. Hapus Kategori
+6. Keluar
+Pilih opsi: Masukkan ID kategori: Masukkan nama kategori: Kategori berhasil ditambahkan.
+
+=== Menu Admin ===
+1. Lihat Semua Pengguna
+2. Hapus Pengguna
+3. Tambah Kategori
+4. Perbarui Kategori
+5. Hapus Kategori
+6. Keluar
+Pilih opsi: Masukkan ID kategori: Masukkan nama kategori: Kategori berhasil ditambahkan.
+
+=== Menu Admin ===
+1. Lihat Semua Pengguna
+2. Hapus Pengguna
+3. Tambah Kategori
+4. Perbarui Kategori
+5. Hapus Kategori
+6. Keluar
+Pilih opsi: 
+=== Sistem E-Commerce ===
+1. Login
+2. Registrasi
+3. Keluar
+Pilih opsi: Username: Password: Login berhasil! Selamat datang, martha (SELLER).
+
+=== Menu Penjual ===
+1. Tambah Produk
+2. Perbarui Produk
+3. Hapus Produk
+4. Lihat Produk Saya
+5. Lihat Pesanan Pembeli
+6. Kelola Dompet
+7. Keluar
+Pilih opsi: 
+=== Daftar Kategori ===
+1. perabotanRumah (ID: BPS)
+2. fashion (ID: IFS)
+Masukkan ID kategori: Masukkan ID produk: Masukkan nama produk: Masukkan harga: Masukkan stok: Produk berhasil ditambahkan.
+
+=== Menu Penjual ===
+1. Tambah Produk
+2. Perbarui Produk
+3. Hapus Produk
+4. Lihat Produk Saya
+5. Lihat Pesanan Pembeli
+6. Kelola Dompet
+7. Keluar
+Pilih opsi: 
+=== Produk Saya ===
+ID         Nama                 Harga      Stok  Kategori       
+31S        sendok               12000.00   300   perabotanRumah 
+
+=== Menu Penjual ===
+1. Tambah Produk
+2. Perbarui Produk
+3. Hapus Produk
+4. Lihat Produk Saya
+5. Lihat Pesanan Pembeli
+6. Kelola Dompet
+7. Keluar
+Pilih opsi: 
+=== Daftar Kategori ===
+1. perabotanRumah (ID: BPS)
+2. fashion (ID: IFS)
+Masukkan ID kategori: Masukkan ID produk: Masukkan nama produk: Masukkan harga: Masukkan stok: Produk berhasil ditambahkan.
+
+=== Menu Penjual ===
+1. Tambah Produk
+2. Perbarui Produk
+3. Hapus Produk
+4. Lihat Produk Saya
+5. Lihat Pesanan Pembeli
+6. Kelola Dompet
+7. Keluar
+Pilih opsi: 
+=== Produk Saya ===
+ID         Nama                 Harga      Stok  Kategori       
+31S        sendok               12000.00   300   perabotanRumah 
+32S        piring               15000.00   300   perabotanRumah 
+
+=== Menu Penjual ===
+1. Tambah Produk
+2. Perbarui Produk
+3. Hapus Produk
+4. Lihat Produk Saya
+5. Lihat Pesanan Pembeli
+6. Kelola Dompet
+7. Keluar
+Pilih opsi: Error: Buyer username tidak valid: tidak boleh null atau kosong.
+
+=== Menu Penjual ===
+1. Tambah Produk
+2. Perbarui Produk
+3. Hapus Produk
+4. Lihat Produk Saya
+5. Lihat Pesanan Pembeli
+6. Kelola Dompet
+7. Keluar
+Pilih opsi: 
+=== Kelola Dompet ===
+Saldo saat ini: 0.0
+1. Tambah Saldo
+2. Transfer Saldo
+3. Lihat Riwayat Transaksi
+4. Kembali
+Pilih opsi: Masukkan jumlah untuk ditambahkan: Error: Jumlah harus berupa angka.
+
+=== Kelola Dompet ===
+Saldo saat ini: 0.0
+1. Tambah Saldo
+2. Transfer Saldo
+3. Lihat Riwayat Transaksi
+4. Kembali
+Pilih opsi: Masukkan jumlah untuk ditambahkan: Saldo berhasil ditambahkan.
+
+=== Kelola Dompet ===
+Saldo saat ini: 50000.0
+1. Tambah Saldo
+2. Transfer Saldo
+3. Lihat Riwayat Transaksi
+4. Kembali
+Pilih opsi: Masukkan username tujuan: Masukkan jumlah untuk ditransfer: Error: Saldo tidak cukup.
+
+=== Kelola Dompet ===
+Saldo saat ini: 50000.0
+1. Tambah Saldo
+2. Transfer Saldo
+3. Lihat Riwayat Transaksi
+4. Kembali
+Pilih opsi: Masukkan username tujuan: Masukkan jumlah untuk ditransfer: Transfer berhasil.
+
+=== Kelola Dompet ===
+Saldo saat ini: 20000.0
+1. Tambah Saldo
+2. Transfer Saldo
+3. Lihat Riwayat Transaksi
+4. Kembali
+Pilih opsi: 
+=== Menu Penjual ===
+1. Tambah Produk
+2. Perbarui Produk
+3. Hapus Produk
+4. Lihat Produk Saya
+5. Lihat Pesanan Pembeli
+6. Kelola Dompet
+7. Keluar
+Pilih opsi: 
+=== Sistem E-Commerce ===
+1. Login
+2. Registrasi
+3. Keluar
+Pilih opsi: Username: Password: Login berhasil! Selamat datang, tobing (BUYER).
+
+=== Menu Pembeli ===
+1. Lihat Semua Produk
+2. Cari Produk berdasarkan Kategori
+3. Tambah ke Keranjang
+4. Lihat Keranjang
+5. Hapus dari Keranjang
+6. Checkout
+7. Lihat Pesanan
+8. Kelola Dompet
+9. Kelola Alamat
+10. Lihat Notifikasi
+11. Tambah Ulasan
+12. Keluar
+Pilih opsi: 
+=== Daftar Produk ===
+ID         Nama                 Harga      Stok  Penjual        
+31S        sendok               12000.00   300   martha         
+32S        piring               15000.00   300   martha         
+
+=== Menu Pembeli ===
+1. Lihat Semua Produk
+2. Cari Produk berdasarkan Kategori
+3. Tambah ke Keranjang
+4. Lihat Keranjang
+5. Hapus dari Keranjang
+6. Checkout
+7. Lihat Pesanan
+8. Kelola Dompet
+9. Kelola Alamat
+10. Lihat Notifikasi
+11. Tambah Ulasan
+12. Keluar
+Pilih opsi: Error: Keranjang kosong. Tambahkan produk terlebih dahulu.
+
+=== Menu Pembeli ===
+1. Lihat Semua Produk
+2. Cari Produk berdasarkan Kategori
+3. Tambah ke Keranjang
+4. Lihat Keranjang
+5. Hapus dari Keranjang
+6. Checkout
+7. Lihat Pesanan
+8. Kelola Dompet
+9. Kelola Alamat
+10. Lihat Notifikasi
+11. Tambah Ulasan
+12. Keluar
+Pilih opsi: 
+=== Daftar Kategori ===
+1. perabotanRumah (ID: BPS)
+2. fashion (ID: IFS)
+Masukkan ID kategori: Tidak ada produk di kategori ini.
+
+=== Menu Pembeli ===
+1. Lihat Semua Produk
+2. Cari Produk berdasarkan Kategori
+3. Tambah ke Keranjang
+4. Lihat Keranjang
+5. Hapus dari Keranjang
+6. Checkout
+7. Lihat Pesanan
+8. Kelola Dompet
+9. Kelola Alamat
+10. Lihat Notifikasi
+11. Tambah Ulasan
+12. Keluar
+Pilih opsi: 
+=== Daftar Produk ===
+ID         Nama                 Harga      Stok  Penjual        
+31S        sendok               12000.00   300   martha         
+32S        piring               15000.00   300   martha         
+Masukkan ID produk: Masukkan jumlah: Error: Stok tidak cukup.
+
+=== Menu Pembeli ===
+1. Lihat Semua Produk
+2. Cari Produk berdasarkan Kategori
+3. Tambah ke Keranjang
+4. Lihat Keranjang
+5. Hapus dari Keranjang
+6. Checkout
+7. Lihat Pesanan
+8. Kelola Dompet
+9. Kelola Alamat
+10. Lihat Notifikasi
+11. Tambah Ulasan
+12. Keluar
+Pilih opsi: 
+=== Daftar Produk ===
+ID         Nama                 Harga      Stok  Penjual        
+31S        sendok               12000.00   300   martha         
+32S        piring               15000.00   300   martha         
+Masukkan ID produk: Masukkan jumlah: Produk berhasil ditambahkan ke keranjang.
+
+=== Menu Pembeli ===
+1. Lihat Semua Produk
+2. Cari Produk berdasarkan Kategori
+3. Tambah ke Keranjang
+4. Lihat Keranjang
+5. Hapus dari Keranjang
+6. Checkout
+7. Lihat Pesanan
+8. Kelola Dompet
+9. Kelola Alamat
+10. Lihat Notifikasi
+11. Tambah Ulasan
+12. Keluar
+Pilih opsi: Error: Tambahkan alamat terlebih dahulu.
+
+=== Menu Pembeli ===
+1. Lihat Semua Produk
+2. Cari Produk berdasarkan Kategori
+3. Tambah ke Keranjang
+4. Lihat Keranjang
+5. Hapus dari Keranjang
+6. Checkout
+7. Lihat Pesanan
+8. Kelola Dompet
+9. Kelola Alamat
+10. Lihat Notifikasi
+11. Tambah Ulasan
+12. Keluar
+Pilih opsi: 
+=== Kelola Alamat ===
+Tidak ada alamat tersedia.
+1. Tambah Alamat
+2. Perbarui Alamat
+3. Hapus Alamat
+4. Kembali
+Pilih opsi: Masukkan detail alamat: Alamat berhasil ditambahkan.
+
+=== Kelola Alamat ===
+1. Sidikalang
+1. Tambah Alamat
+2. Perbarui Alamat
+3. Hapus Alamat
+4. Kembali
+Pilih opsi: Masukkan detail alamat: Alamat berhasil ditambahkan.
+
+=== Kelola Alamat ===
+1. Sidikalang
+2. Tarutung
+1. Tambah Alamat
+2. Perbarui Alamat
+3. Hapus Alamat
+4. Kembali
+Pilih opsi: 
+=== Menu Pembeli ===
+1. Lihat Semua Produk
+2. Cari Produk berdasarkan Kategori
+3. Tambah ke Keranjang
+4. Lihat Keranjang
+5. Hapus dari Keranjang
+6. Checkout
+7. Lihat Pesanan
+8. Kelola Dompet
+9. Kelola Alamat
+10. Lihat Notifikasi
+11. Tambah Ulasan
+12. Keluar
+Pilih opsi: 
+=== Pilih Alamat Pengiriman ===
+1. Sidikalang
+2. Tarutung
+Masukkan nomor alamat: Error: Saldo dompet tidak cukup. Saldo saat ini: 30000.0
+
+=== Menu Pembeli ===
+1. Lihat Semua Produk
+2. Cari Produk berdasarkan Kategori
+3. Tambah ke Keranjang
+4. Lihat Keranjang
+5. Hapus dari Keranjang
+6. Checkout
+7. Lihat Pesanan
+8. Kelola Dompet
+9. Kelola Alamat
+10. Lihat Notifikasi
+11. Tambah Ulasan
+12. Keluar
+Pilih opsi: Tidak ada notifikasi.
+
+=== Menu Pembeli ===
+1. Lihat Semua Produk
+2. Cari Produk berdasarkan Kategori
+3. Tambah ke Keranjang
+4. Lihat Keranjang
+5. Hapus dari Keranjang
+6. Checkout
+7. Lihat Pesanan
+8. Kelola Dompet
+9. Kelola Alamat
+10. Lihat Notifikasi
+11. Tambah Ulasan
+12. Keluar
+Pilih opsi: 
+=== Kelola Dompet ===
+Saldo saat ini: 30000.0
+1. Tambah Saldo
+2. Transfer Saldo
+3. Lihat Riwayat Transaksi
+4. Kembali
+Pilih opsi: Masukkan jumlah untuk ditambahkan: Saldo berhasil ditambahkan.
+
+=== Kelola Dompet ===
+Saldo saat ini: 9.003E7
+1. Tambah Saldo
+2. Transfer Saldo
+3. Lihat Riwayat Transaksi
+4. Kembali
+Pilih opsi: 
+=== Menu Pembeli ===
+1. Lihat Semua Produk
+2. Cari Produk berdasarkan Kategori
+3. Tambah ke Keranjang
+4. Lihat Keranjang
+5. Hapus dari Keranjang
+6. Checkout
+7. Lihat Pesanan
+8. Kelola Dompet
+9. Kelola Alamat
+10. Lihat Notifikasi
+11. Tambah Ulasan
+12. Keluar
+Pilih opsi: 
+=== Pilih Alamat Pengiriman ===
+1. Sidikalang
+2. Tarutung
+Masukkan nomor alamat: Checkout berhasil! ID Pesanan: ab564925-413a-4f2e-8f74-c35dfe55d8ba
+Total pembayaran: 3000000.0
+Alamat pengiriman: Tarutung
+
+=== Menu Pembeli ===
+1. Lihat Semua Produk
+2. Cari Produk berdasarkan Kategori
+3. Tambah ke Keranjang
+4. Lihat Keranjang
+5. Hapus dari Keranjang
+6. Checkout
+7. Lihat Pesanan
+8. Kelola Dompet
+9. Kelola Alamat
+10. Lihat Notifikasi
+11. Tambah Ulasan
+12. Keluar
+Pilih opsi: 
+=== Pilih Pesanan untuk Diulas ===
+1. Pesanan ID: ab564925-413a-4f2e-8f74-c35dfe55d8ba
+Masukkan nomor pesanan: 
+Produk dalam pesanan:
+- sendok (ID: 31S)
+Masukkan ID produk untuk diulas: Masukkan rating (1-5): Masukkan komentar: Ulasan berhasil ditambahkan.
+
+=== Menu Pembeli ===
+1. Lihat Semua Produk
+2. Cari Produk berdasarkan Kategori
+3. Tambah ke Keranjang
+4. Lihat Keranjang
+5. Hapus dari Keranjang
+6. Checkout
+7. Lihat Pesanan
+8. Kelola Dompet
+9. Kelola Alamat
+10. Lihat Notifikasi
+11. Tambah Ulasan
+12. Keluar
+Pilih opsi: 
+=== Sistem E-Commerce ===
+1. Login
+2. Registrasi
+3. Keluar
+Pilih opsi: Terima kasih telah menggunakan sistem!

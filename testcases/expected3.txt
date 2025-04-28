@@ -1,0 +1,151 @@
+
+=== Sistem E-Commerce ===
+1. Login
+2. Registrasi
+3. Keluar
+Pilih opsi: Username: Password: Pilih peran: 1. Pembeli 2. Penjual 3. Admin
+Registrasi berhasil! Silakan login.
+
+=== Sistem E-Commerce ===
+1. Login
+2. Registrasi
+3. Keluar
+Pilih opsi: Username: Password: Login berhasil! Selamat datang, firman (ADMIN).
+
+=== Menu Admin ===
+1. Lihat Semua Pengguna
+2. Hapus Pengguna
+3. Tambah Kategori
+4. Perbarui Kategori
+5. Hapus Kategori
+6. Keluar
+Pilih opsi: 
+=== Sistem E-Commerce ===
+1. Login
+2. Registrasi
+3. Keluar
+Pilih opsi: Username: Password: Pilih peran: 1. Pembeli 2. Penjual 3. Admin
+Registrasi berhasil! Silakan login.
+
+=== Sistem E-Commerce ===
+1. Login
+2. Registrasi
+3. Keluar
+Pilih opsi: Username: Password: Pilih peran: 1. Pembeli 2. Penjual 3. Admin
+Registrasi berhasil! Silakan login.
+
+=== Sistem E-Commerce ===
+1. Login
+2. Registrasi
+3. Keluar
+Pilih opsi: Username: Password: Pilih peran: 1. Pembeli 2. Penjual 3. Admin
+Registrasi berhasil! Silakan login.
+
+=== Sistem E-Commerce ===
+1. Login
+2. Registrasi
+3. Keluar
+Pilih opsi: Username: Password: Pilih peran: 1. Pembeli 2. Penjual 3. Admin
+Registrasi berhasil! Silakan login.
+
+=== Sistem E-Commerce ===
+1. Login
+2. Registrasi
+3. Keluar
+Pilih opsi: Username: Password: Login berhasil! Selamat datang, firman (ADMIN).
+
+=== Menu Admin ===
+1. Lihat Semua Pengguna
+2. Hapus Pengguna
+3. Tambah Kategori
+4. Perbarui Kategori
+5. Hapus Kategori
+6. Keluar
+Pilih opsi: 
+=== Daftar Pengguna ===
+Username        Peran     
+firman          ADMIN     
+ridho           SELLER    
+tobing          SELLER    
+moses           BUYER     
+topui           BUYER     
+
+=== Menu Admin ===
+1. Lihat Semua Pengguna
+2. Hapus Pengguna
+3. Tambah Kategori
+4. Perbarui Kategori
+5. Hapus Kategori
+6. Keluar
+Pilih opsi: Masukkan ID kategori: Masukkan nama kategori: Kategori berhasil ditambahkan.
+
+=== Menu Admin ===
+1. Lihat Semua Pengguna
+2. Hapus Pengguna
+3. Tambah Kategori
+4. Perbarui Kategori
+5. Hapus Kategori
+6. Keluar
+Pilih opsi: Masukkan ID kategori: Masukkan nama kategori: Kategori berhasil ditambahkan.
+
+=== Menu Admin ===
+1. Lihat Semua Pengguna
+2. Hapus Pengguna
+3. Tambah Kategori
+4. Perbarui Kategori
+5. Hapus Kategori
+6. Keluar
+Pilih opsi: 
+=== Daftar Kategori ===
+PSS: mejakursi
+ISS: rumahtangga
+Masukkan ID kategori untuk diperbarui: Masukkan nama baru: Kategori berhasil diperbarui.
+
+=== Menu Admin ===
+1. Lihat Semua Pengguna
+2. Hapus Pengguna
+3. Tambah Kategori
+4. Perbarui Kategori
+5. Hapus Kategori
+6. Keluar
+Pilih opsi: 
+=== Daftar Kategori ===
+PSS: kursimeja
+ISS: rumahtangga
+Masukkan ID kategori untuk dihapus: Error: Kategori tidak ditemukan.
+
+=== Menu Admin ===
+1. Lihat Semua Pengguna
+2. Hapus Pengguna
+3. Tambah Kategori
+4. Perbarui Kategori
+5. Hapus Kategori
+6. Keluar
+Pilih opsi: 
+=== Daftar Kategori ===
+PSS: kursimeja
+ISS: rumahtangga
+Masukkan ID kategori untuk dihapus: Kategori berhasil dihapus.
+
+=== Menu Admin ===
+1. Lihat Semua Pengguna
+2. Hapus Pengguna
+3. Tambah Kategori
+4. Perbarui Kategori
+5. Hapus Kategori
+6. Keluar
+Pilih opsi: Masukkan ID kategori: Masukkan nama kategori: Kategori berhasil ditambahkan.
+
+=== Menu Admin ===
+1. Lihat Semua Pengguna
+2. Hapus Pengguna
+3. Tambah Kategori
+4. Perbarui Kategori
+5. Hapus Kategori
+6. Keluar
+Pilih opsi: 
+=== Sistem E-Commerce ===
+1. Login
+2. Registrasi
+3. Keluar
+Pilih opsi: Terima kasih telah menggunakan sistem!

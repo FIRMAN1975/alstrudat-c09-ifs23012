@@ -1,0 +1,207 @@
+
+=== Sistem E-Commerce ===
+1. Login
+2. Registrasi
+3. Keluar
+Pilih opsi: Username: Password: Pilih peran: 1. Pembeli 2. Penjual 3. Admin
+Registrasi berhasil! Silakan login.
+
+=== Sistem E-Commerce ===
+1. Login
+2. Registrasi
+3. Keluar
+Pilih opsi: Username: Password: Login berhasil! Selamat datang, firman (ADMIN).
+
+=== Menu Admin ===
+1. Lihat Semua Pengguna
+2. Hapus Pengguna
+3. Tambah Kategori
+4. Perbarui Kategori
+5. Hapus Kategori
+6. Keluar
+Pilih opsi: 
+=== Sistem E-Commerce ===
+1. Login
+2. Registrasi
+3. Keluar
+Pilih opsi: Username: Password: Pilih peran: 1. Pembeli 2. Penjual 3. Admin
+Registrasi berhasil! Silakan login.
+
+=== Sistem E-Commerce ===
+1. Login
+2. Registrasi
+3. Keluar
+Pilih opsi: Username: Password: Pilih peran: 1. Pembeli 2. Penjual 3. Admin
+Registrasi berhasil! Silakan login.
+
+=== Sistem E-Commerce ===
+1. Login
+2. Registrasi
+3. Keluar
+Pilih opsi: Username: Password: Pilih peran: 1. Pembeli 2. Penjual 3. Admin
+Registrasi berhasil! Silakan login.
+
+=== Sistem E-Commerce ===
+1. Login
+2. Registrasi
+3. Keluar
+Pilih opsi: Username: Password: Pilih peran: 1. Pembeli 2. Penjual 3. Admin
+Registrasi berhasil! Silakan login.
+
+=== Sistem E-Commerce ===
+1. Login
+2. Registrasi
+3. Keluar
+Pilih opsi: Username: Password: Login berhasil! Selamat datang, firman (ADMIN).
+
+=== Menu Admin ===
+1. Lihat Semua Pengguna
+2. Hapus Pengguna
+3. Tambah Kategori
+4. Perbarui Kategori
+5. Hapus Kategori
+6. Keluar
+Pilih opsi: 
+=== Daftar Pengguna ===
+Username        Peran     
+firman          ADMIN     
+ridho           SELLER    
+tobing          SELLER    
+moses           BUYER     
+topui           BUYER     
+
+=== Menu Admin ===
+1. Lihat Semua Pengguna
+2. Hapus Pengguna
+3. Tambah Kategori
+4. Perbarui Kategori
+5. Hapus Kategori
+6. Keluar
+Pilih opsi: Masukkan ID kategori: Masukkan nama kategori: Kategori berhasil ditambahkan.
+
+=== Menu Admin ===
+1. Lihat Semua Pengguna
+2. Hapus Pengguna
+3. Tambah Kategori
+4. Perbarui Kategori
+5. Hapus Kategori
+6. Keluar
+Pilih opsi: Masukkan ID kategori: Masukkan nama kategori: Kategori berhasil ditambahkan.
+
+=== Menu Admin ===
+1. Lihat Semua Pengguna
+2. Hapus Pengguna
+3. Tambah Kategori
+4. Perbarui Kategori
+5. Hapus Kategori
+6. Keluar
+Pilih opsi: 
+=== Daftar Kategori ===
+PSS: mejakursi
+ISS: rumahtangga
+Masukkan ID kategori untuk diperbarui: Masukkan nama baru: Kategori berhasil diperbarui.
+
+=== Menu Admin ===
+1. Lihat Semua Pengguna
+2. Hapus Pengguna
+3. Tambah Kategori
+4. Perbarui Kategori
+5. Hapus Kategori
+6. Keluar
+Pilih opsi: 
+=== Daftar Kategori ===
+PSS: kursimeja
+ISS: rumahtangga
+Masukkan ID kategori untuk dihapus: Error: Kategori tidak ditemukan.
+
+=== Menu Admin ===
+1. Lihat Semua Pengguna
+2. Hapus Pengguna
+3. Tambah Kategori
+4. Perbarui Kategori
+5. Hapus Kategori
+6. Keluar
+Pilih opsi: 
+=== Daftar Kategori ===
+PSS: kursimeja
+ISS: rumahtangga
+Masukkan ID kategori untuk dihapus: Kategori berhasil dihapus.
+
+=== Menu Admin ===
+1. Lihat Semua Pengguna
+2. Hapus Pengguna
+3. Tambah Kategori
+4. Perbarui Kategori
+5. Hapus Kategori
+6. Keluar
+Pilih opsi: Masukkan ID kategori: Masukkan nama kategori: Kategori berhasil ditambahkan.
+
+=== Menu Admin ===
+1. Lihat Semua Pengguna
+2. Hapus Pengguna
+3. Tambah Kategori
+4. Perbarui Kategori
+5. Hapus Kategori
+6. Keluar
+Pilih opsi: 
+=== Sistem E-Commerce ===
+1. Login
+2. Registrasi
+3. Keluar
+Pilih opsi: Username: Password: Login berhasil! Selamat datang, ridho (SELLER).
+
+=== Menu Penjual ===
+1. Tambah Produk
+2. Perbarui Produk
+3. Hapus Produk
+4. Lihat Produk Saya
+5. Lihat Pesanan Pembeli
+6. Kelola Dompet
+7. Keluar
+Pilih opsi: 
+=== Daftar Kategori ===
+1. mejakursi (ID: PSS)
+2. rumahtangga (ID: ISS)
+Masukkan ID kategori: Error: ID kategori tidak valid.
+
+=== Menu Penjual ===
+1. Tambah Produk
+2. Perbarui Produk
+3. Hapus Produk
+4. Lihat Produk Saya
+5. Lihat Pesanan Pembeli
+6. Kelola Dompet
+7. Keluar
+Pilih opsi: 
+=== Daftar Kategori ===
+1. mejakursi (ID: PSS)
+2. rumahtangga (ID: ISS)
+Masukkan ID kategori: Masukkan ID produk: Masukkan nama produk: Masukkan harga: Masukkan stok: Produk berhasil ditambahkan.
+
+=== Menu Penjual ===
+1. Tambah Produk
+2. Perbarui Produk
+3. Hapus Produk
+4. Lihat Produk Saya
+5. Lihat Pesanan Pembeli
+6. Kelola Dompet
+7. Keluar
+Pilih opsi: 
+=== Produk Saya ===
+ID         Nama                 Harga      Stok  Kategori       
+ifs        ikea                 1700000.00 40    mejakursi      
+
+=== Menu Penjual ===
+1. Tambah Produk
+2. Perbarui Produk
+3. Hapus Produk
+4. Lihat Produk Saya
+5. Lihat Pesanan Pembeli
+6. Kelola Dompet
+7. Keluar
+Pilih opsi: 
+=== Sistem E-Commerce ===
+1. Login
+2. Registrasi
+3. Keluar
+Pilih opsi: Terima kasih telah menggunakan sistem!
